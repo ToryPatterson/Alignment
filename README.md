@@ -1,2 +1,0 @@
-# Alignment
-Created with CodeSandbox
